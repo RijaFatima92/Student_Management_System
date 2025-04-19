@@ -1,2 +1,2 @@
 # Student_Management_System
-This is a simple Student Management System built using Bash scripting as part of my Operating Systems course project. It runs entirely in the terminal and allows you to add, view, update, search, and delete student records, all stored in a plain text file. The project helped me understand file handling and scripting basics in a Linux environment. It's lightweight, easy to run, and a great example of how powerful even simple shell scripts can be.
+
